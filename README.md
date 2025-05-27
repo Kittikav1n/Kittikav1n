@@ -1,7 +1,8 @@
-- 👋 Hi, I’m kittikavin modthed
-- 🤏 I’m 19 years old.
-- 🌱 Study at ACS|KMUTT
-<!---
-Kittikav1n/Kittikav1n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Hi 👋,I'm KITTIKAVIN</h1>
+<h3 align="center">Learning is a treasure that will follow its owner everywhere.💻📊</h3>
+
+- 📫 How to reach me **https://www.instagram.com/kiitiz_/**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
