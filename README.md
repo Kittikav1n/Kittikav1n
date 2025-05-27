@@ -1,6 +1,6 @@
-👋 Hi, I’m kittikavin modthed
-🤏 I’m 19 years old.
-🌱 I’m currently learning ...
+- 👋 Hi, I’m kittikavin modthed
+- 🤏 I’m 19 years old.
+- 🌱 I’m currently learning ...
 
 
 <!---
